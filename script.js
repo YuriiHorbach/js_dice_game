@@ -16,7 +16,7 @@ score0El.textContent = 0;
 score1El.textContent = 0;
 diceEl.classList.add('hidden');
 
-const gameLimit = 10;
+const gameLimit = 100;
 let scores = [0, 0];
 let currentScore = 0;
 let activePlayer = 0;
